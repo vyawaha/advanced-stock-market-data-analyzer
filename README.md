@@ -199,28 +199,30 @@ Swagger documentation
 Project Execution Output
 Successful Terminal Execution
 
-Price Trend Chart
-![Test](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/charts/AAPL_price_chart.png)
+Price Trend Chart  
+![Price Chart](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/charts/AAPL_price_chart.png)
 
-Returns Analysis Chart
-![Returns Chart](images/charts/AAPL_returns_chart.png)
+Returns Analysis Chart  
+![Returns Chart](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/charts/AAPL_returns_chart.png)
 
-Trading Signals Chart
-![Signals Chart](images/signals/AAPL_signals.png)
+Trading Signals Chart  
+![Signals Chart](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/signals/AAPL_signals.png)
 
-CSV OUTPUT
-![CSV Output](images/csv_output_preview.png)
+CSV OUTPUT  
+![CSV Output](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/csv_output_preview.png)
 
-EXECUTION OUTPUT
-![Execution Output](images/project_execution_output.png)
+EXECUTION OUTPUT  
+![Execution Output](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/project_execution_output.png)
 
-REPORT OUTPUT
-![Report](images/generated_report_output.png)
+REPORT OUTPUT  
+![Report](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/generated_report_output.png)
 
-PROJECT STRUCTURE
-![Structure](images/project_structure.png)
-![Structure](images/project_structure2.png)
-![Structure](images/project_structure3.png)
+PROJECT STRUCTURE  
+![Structure](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/project_structure.png)
+
+![Structure](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/project_structure2.png)
+
+![Structure](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/project_structure3.png)
 
 🚀 Swagger API Documentation
 Swagger UI available at:
