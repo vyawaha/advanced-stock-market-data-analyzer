@@ -1,0 +1,12 @@
+ADVANCED STOCK MARKET REPORT
+============================
+
+Ticker: AAPL
+
+Average Return: 0.000529
+Volatility: 0.006703
+Maximum Return: 0.019974
+Minimum Return: -0.014388
+
+Market Return: 16.34%
+Strategy Return: 17.57%
