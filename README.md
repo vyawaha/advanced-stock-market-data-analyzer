@@ -202,13 +202,13 @@ Successful Terminal Execution
 CSV Output Preview
 
 Price Trend Chart
-![Price Chart](images/charts/aapl_price_chart.png)
+![Price Chart](images/charts/AAPL_price_chart.png)
 
 Returns Analysis Chart
-![Returns Chart](images/charts/aapl_returns_chart.png)
+![Returns Chart](images/charts/AAPL_returns_chart.png)
 
 Trading Signals Chart
-![Signals Chart](images/signals/aapl_signals.png)
+![Signals Chart](images/signals/AAPL_signals.png)
 
 CSV OUTPUT
 ![CSV Output](images/csv_output_preview.png)
