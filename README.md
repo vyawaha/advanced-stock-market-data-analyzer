@@ -199,10 +199,8 @@ Swagger documentation
 Project Execution Output
 Successful Terminal Execution
 
-CSV Output Preview
-
 Price Trend Chart
-![Price Chart](images/charts/AAPL_price_chart.png)
+![Test](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/charts/AAPL_price_chart.png)
 
 Returns Analysis Chart
 ![Returns Chart](images/charts/AAPL_returns_chart.png)
