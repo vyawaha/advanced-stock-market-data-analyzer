@@ -199,25 +199,44 @@ Swagger documentation
 Project Execution Output
 Successful Terminal Execution
 
-Price Trend Chart  
+## Price Trend Chart
+
 ![Price Chart](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/charts/AAPL_price_chart.png)
 
-Returns Analysis Chart  
+---
+
+## Returns Analysis Chart
+
 ![Returns Chart](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/charts/AAPL_returns_chart.png)
 
-Trading Signals Chart  
+---
+
+## Trading Signals Chart
+
 ![Signals Chart](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/signals/AAPL_signals.png)
 
-CSV OUTPUT  
+---
+
+## CSV OUTPUT
+
 ![CSV Output](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/csv_output_preview.png)
 
-EXECUTION OUTPUT  
+---
+
+## EXECUTION OUTPUT
+
 ![Execution Output](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/project_execution_output.png)
 
-REPORT OUTPUT  
+---
+
+## REPORT OUTPUT
+
 ![Report](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/generated_report_output.png)
 
-PROJECT STRUCTURE  
+---
+
+## PROJECT STRUCTURE
+
 ![Structure](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/project_structure.png)
 
 ![Structure](https://raw.githubusercontent.com/vyawaha/advanced-stock-market-data-analyzer/main/images/project_structure2.png)
