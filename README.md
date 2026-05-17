@@ -115,17 +115,20 @@ Visualization
 FastAPI Backend
         ↓
 Swagger API Docs
+```
 
-Tech Stack
-Technology	Purpose
-Python	    Core Development
-Pandas	    Data Processing
-NumPy	    Numerical Computing
-yFinance	Market Data Fetching
-Matplotlib	Data Visualization
-FastAPI	    Backend API
-Uvicorn	    API Server
-VS Code	    Development Environment
+# Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
+| Python | Core Development |
+| Pandas | Data Processing |
+| NumPy | Numerical Computing |
+| yFinance | Market Data Fetching |
+| Matplotlib | Data Visualization |
+| FastAPI | Backend API |
+| Uvicorn | API Server |
+| VS Code | Development Environment |
 
 Folder Structure
 advanced-stock-market-data-analyzer/
